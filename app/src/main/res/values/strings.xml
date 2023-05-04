@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AgroStore(Mini)</string>
+    <string name="signup">signup</string>
+    <string name="agro_store">Agro Store</string>
+    <string name="sign_up">Sign up</string>
+    <string name="choose_app_language">choose app language</string>
+    <string name="use_facebook_account">use facebook account</string>
+    <string name="use_google_account">use google account</string>
+    <string name="use_twitter_account">use twitter account</string>
+    <string name="already_have_an_account_sign_in">already have an account sign in</string>
+    <string name="or">or</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="mobile">mobile</string>
+    <string name="name">name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="don_t_have_an_account_sign_up">don\'t have an account sign up</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_in_as_guest">sign in as guest</string>
+    <string name="app_language">App language</string>
 </resources>
